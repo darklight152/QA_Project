@@ -12,3 +12,8 @@ File fXmlFile = new File("C:/Users/Matthew/Documents/userInfo.xml");
 Has to be changed to where the xml XML file is located on your computer.  If you copy/paste the directory you will have to change back slashes to forward slashes!
 
 Hit run application and everything should work!
+______
+
+A few notes on the application
+
+When I first started to think about how to go about this project and plan out the steps required to accomplish it, I came to the conclusion that the profiles would be stored in some kind of database.  I figured it would be easy to convert that profile information into an XML file which I would then import into my application to scan for errors.  While I had a basic idea of how this was done, working with XML in Java was pretty new to me and I was picking this up as I went along.  Unfortunately, this means I put function over form and while the application does what it is supposed to do, I am by no means pleased by how it goes about doing this.  It is a very brute force method that does allow for easy modifications and changes.  For example, if any fields in the XML are changed, an error will occur when running the program, if new fields are added the program will not ackowledge them without doing some coding and so on.  I have ideas on how to improve the application and it is something I will like to look back into afterwards.
