@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<users>
+<users>
+
+<id>1</id>
+<firstName>Matthew</firstName>
+<lastName>Young</lastName>
+<nickName>mathuyoung</nickName>
+<title>Hello World</title>
+<lookingfor>Women</lookingfor>
+<ageBetween>18-35</ageBetween>
+<birthDate>1987/06/01</birthDate>
+<country>Canada</country>
+<postalCode>H4B-2L2</postalCode>
+<ethnicity>Asian</ethnicity>
+<height>5'6</height>
+<bodyType>Slim</bodyType>
+<hairColor>Black</hairColor>
+<eyeColor>Brown</eyeColor>
+<relationship>Single</relationship>
+<haveChildren>No</haveChildren>
+<wantChildren>No</wantChildren>
+<religion>Agnostic</religion>
+<fieldOfStudy>Computer Science</fieldOfStudy>
+<occupation>Computer Programmer</occupation>
+<education>College</education>
+<income>25-50k</income>
+<smokes>No</smokes>
+<drinks>Socially</drinks>
+
+<about>Hey there!  This is a test to see if the validation program is working or not.  It reads through an XML file and searches for missing fields 
+as well as email addresses and urls that need to be removed.  It should detech things like mathuyoung@gmail.com and cause an error but something like a@2. should 
+be alright.  Putting a link to www.google.ca should be flagged as well as http://www.cbc.ca as well as ftp://filename just to be safe.  Here is hoping it works!</about>
+
+<description>Hey there!  This is a test to see if the validation program is working or not.  It reads through an XML file and searches for missing fields 
+as well as email addresses and urls that need to be removed.  It should detech things like mathuyoung@gmail.com and cause an error but something like a@2. should 
+be alright.  Putting a link to www.google.ca should be flagged as well as http://www.cbc.ca as well as ftp://filename just to be safe.  Here is hoping it works!</description>
+
+lifestyle (combo boxes)
+<vegetarian>0</vegetarian>
+<gourmet>1</gourmet>
+<meatLover>1</meatLover>
+<sweets>1</sweets>
+<halal>0</halal>
+<balanced>0</balanced>
+<fastFood>1</fastFood>
+<kosher>0</kosher>
+<specialDiet>0</specialDiet>
+lifestyle(dropboxes)
+<travelFun>2</travelFun>
+<travelWork>1</travelWork>
+<humor>4</humor>
+<workHabits>1</workHabits>
+<physicalFitness>2</physicalFitness>
+<political></political>
+
+
+favoriteThings
+<airline></airline>
+<celebrity></celebrity>
+<animal>Dog, cat</animal>
+<appliance>Toaster</appliance>
+<artist></artist>
+<beverage>coffee</beverage>
+<book>Song of Fire and Ice</book>
+<brands></brands>
+<candy>All</candy>
+<vehicle></vehicle>
+<city>New York City</city>
+<clothingStore></clothingStore>0
+<comedian>Louis C.K</comedian>
+<films>Terminator 2</films>
+<flower></flower>
+<food>Sushi</food>
+<gadget>Toaster</gadget>
+<game>Hockey</game>
+<hero></hero>
+<hobby>Piano</hobby>
+<holiday>Christmas</holiday>
+<hotel></hotel>
+<indulgence>Chocolate</indulgence>
+<leisureActivities>Running</leisureActivities>
+<localHangout>The Next Door</localHangout>
+<publication>Wired</publication>
+<music>Rock</music>
+<pets>None</pets>
+<placetoLive>Montreal</placetoLive>
+<politicalFigures>Jean Chretien</politicalFigures>
+<radioShow>Vinyl Cafe</radioShow>
+<season>Summer</season>
+<software>Notepad ++</software>
+<sportTeam>Habs</sportTeam>
+<stores>HMV</stores>
+<travelDestination>Carribean</travelDestination>
+<turnOns></turnOns>
+<tvShow>Arrested Development</tvShow>
+<virtue>Hard working</virtue>
+<website>stackoverflow</website>
+
+leastFavoriteThings
+<activities>Shopping</activities>
+<badHabits></badHabits>
+<foodHate></foodHate>
+<evilDoers></evilDoers>
+<fashionCrime>Fedora</fashionCrime>
+<fear>Heights</fear>
+<worstJob>Not having a job</worstJob>
+<angry></angry>
+<musicAngry></musicAngry>
+<petPeeves></petPeeves>
+<turnOffs></turnOffs>
+<vices></vices>
+
+</users>
+
+<users>
+
+<id>1</id>
+<firstName>George</firstName>
+<lastName>Boursiquo</lastName>
+<nickName>mushu</nickName>
+<title>Test test</title>
+<lookingfor>Women</lookingfor>
+<ageBetween>18-35</ageBetween>
+<birthDate>1988/12/15</birthDate>
+<country>Canada</country>
+<postalCode>1a1-2b3</postalCode>
+<ethnicity>Black</ethnicity>
+<height>5'9</height>
+<bodyType>Slim</bodyType>
+<hairColor>Black</hairColor>
+<eyeColor>Brown</eyeColor>
+<relationship>Married</relationship>
+<haveChildren>No</haveChildren>
+<wantChildren>No</wantChildren>
+<religion>Agnostic</religion>
+<fieldOfStudy>Computer Science</fieldOfStudy>
+<occupation>Computer Programmer</occupation>
+<education>Masters</education>
+<income></income>
+<smokes>No</smokes>
+<drinks>Socially</drinks>
+
+<about>Hello world</about>
+
+<description>Hello world</description>
+
+lifestyle (combo boxes)
+<vegetarian>1</vegetarian>
+<gourmet>1</gourmet>
+<meatLover>1</meatLover>
+<sweets>1</sweets>
+<halal>0</halal>
+<balanced>0</balanced>
+<fastFood>1</fastFood>
+<kosher>0</kosher>
+<specialDiet>0</specialDiet>
+lifestyle(dropboxes)
+<travelFun>1</travelFun>
+<travelWork>2</travelWork>
+<humor>0</humor>
+<workHabits>2</workHabits>
+<physicalFitness>2</physicalFitness>
+<political></political>
+
+
+favoriteThings
+<airline>Air Canada</airline>
+<celebrity>Katy Perry</celebrity>
+<animal>Dragon</animal>
+<appliance>Coffee Maker</appliance>
+<artist>Katy Perry</artist>
+<beverage>coffee</beverage>
+<book>Lord of the Rings</book>
+<brands></brands>
+<candy></candy>
+<vehicle>Prius</vehicle>
+<city>Los Angeles</city>
+<clothingStore></clothingStore>0
+<comedian></comedian>
+<films>Mulan</films>
+<flower>Roses</flower>
+<food>Sushi</food>
+<gadget>apple watch</gadget>
+<game>Hockey</game>
+<hero></hero>
+<hobby>dancing</hobby>
+<holiday>Halloween</holiday>
+<hotel></hotel>
+<indulgence>Chocolate</indulgence>
+<leisureActivities>Running</leisureActivities>
+<localHangout>The Next Door</localHangout>
+<publication>Wired</publication>
+<music>Rock</music>
+<pets>None</pets>
+<placetoLive>Montreal</placetoLive>
+<politicalFigures>Jean Chretien</politicalFigures>
+<radioShow>Vinyl Cafe</radioShow>
+<season>Summer</season>
+<software>Notepad ++</software>
+<sportTeam>Habs</sportTeam>
+<stores>HMV</stores>
+<travelDestination>Carribean</travelDestination>
+<turnOns></turnOns>
+<tvShow>Arrested Development</tvShow>
+<virtue>Hard working</virtue>
+<website>stackoverflow</website>
+
+leastFavoriteThings
+<activities>Shopping</activities>
+<badHabits></badHabits>
+<foodHate></foodHate>
+<evilDoers></evilDoers>
+<fashionCrime>Fedora</fashionCrime>
+<fear>Heights</fear>
+<worstJob>Not having a job</worstJob>
+<angry></angry>
+<musicAngry></musicAngry>
+<petPeeves></petPeeves>
+<turnOffs></turnOffs>
+<vices></vices>
+
+</users>
+
+
+</users>
